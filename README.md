@@ -414,6 +414,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 👤 Author
 
 **Your Name**
-GitHub: [@YOUR_USERNAME](https://github.com/Maliksarmad01)
+GitHub: [Maliksarmad01](https://github.com/Maliksarmad01)
 
 If you found this project useful, consider giving it a ⭐
