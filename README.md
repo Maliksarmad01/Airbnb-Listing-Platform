@@ -413,7 +413,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 👤 Author
 
-**Your Name**
+**Muhammad Sarmad Sajjad**
 GitHub: [Maliksarmad01](https://github.com/Maliksarmad01)
 
 If you found this project useful, consider giving it a ⭐
